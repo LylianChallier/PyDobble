@@ -1,5 +1,7 @@
 # Dobble Card Game Generator
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+
 Le **Dobble** (ou **Spot it!**) est un jeu de perception visuelle où chaque carte partage exactement **un unique symbole en commun** avec toutes les autres cartes. Ce projet permet de créer facilement votre propre jeu avec vos symboles !
 
 ## 📋 Table des Matières
