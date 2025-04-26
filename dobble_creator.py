@@ -76,5 +76,10 @@ class Creator():
                 card.save(f"results/card{i}.jpg")
                 #save next card
                 i+=1
+
+# on crée les cartes en .jpg 
+# à partir d'images .png 
+instance = Creator()
+instance.make_cards()
                 
  
